@@ -1,0 +1,12 @@
+//Hide "posted by xxx on xxx"//
+
+.entry-meta { display:none;}
+
+
+
+//Hide author in post//
+
+.entry-footer {
+   display:none !important;
+}
+
